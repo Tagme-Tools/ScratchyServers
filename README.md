@@ -1,4 +1,4 @@
-# ScratchyServers
+![Logo](https://github.com/Tagme-Tools/ScratchyServers/blob/master/src/%23include/logo.png)
 Run [Scratch](https://scratch.mit.edu) cloud data servers from your machine! (Windows x64+)
 # How to run
 Start `ScratchyServers.exe` and go through the setup wizard.
